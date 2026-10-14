@@ -1,10 +1,10 @@
 # VeraStack Labs
 
-A design and engineering studio. We build web experiences, web and mobile apps, content systems, 3D on the web and product videos for clients, and our own products alongside them.
+A design and engineering studio. We build web experiences, web and mobile apps, content systems, 3D on the web, AI search and SEO, and product videos for clients, and our own products alongside them.
 
 [verastack.dev](https://verastack.dev/) · [Start a project](https://verastack.dev/#contact) · Based in India, working with clients anywhere
 
-**What we build:** web experiences and 3D (configurators, product stories, interactive pieces) · web apps and CMS · websites and launches, in code or in Framer and Webflow · product videos: launch films, explainers and ad cuts, fast and priced to test · desktop and mobile apps.
+**What we build:** web experiences and 3D (configurators, product stories, interactive pieces) · web apps and CMS · websites and launches, in code or in Framer and Webflow · AI search and SEO: get named in ChatGPT, Perplexity and Google's AI answers · product videos: launch films, explainers and ad cuts, fast and priced to test · desktop and mobile apps.
 
 Founded by [Rigan Burnwal](https://riganb.github.io), whose client work includes the Ultraviolette X-47 and Tesseract configurators and the E3 TRION launch.
 
