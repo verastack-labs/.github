@@ -1,6 +1,6 @@
 # VeraStack Labs
 
-A design and engineering studio. We build web experiences, web and mobile apps, content systems and 3D on the web for clients, and our own products alongside them.
+A design and engineering studio. We build web experiences, web and mobile apps, content systems, 3D on the web and product videos for clients, and our own products alongside them.
 
 [verastack.dev](https://verastack.dev/) · [Start a project](https://verastack.dev/#contact) · Based in India, working with clients anywhere
 
