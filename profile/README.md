@@ -6,7 +6,7 @@ A design and engineering studio. Web experiences and 3D, web and mobile apps, AI
 
 **What we build:** web experiences and 3D (configurators, product stories, interactive pieces) · web apps and CMS · websites and launches, in code or in Framer and Webflow · AI search and SEO: get named in ChatGPT, Perplexity and Google's AI answers · product videos: launch films, explainers and ad cuts, made in hours in your brand's style and priced to test · desktop and mobile apps.
 
-Founded by [Rigan Burnwal](https://riganb.github.io), whose client work includes the Ultraviolette X-47 and Tesseract configurators and the E3 TRION launch.
+Founded by [Rigan Burnwal](https://riganb.github.io), whose client work includes the Ultraviolette X-47, Tesseract and Shockwave configurators and booking flows, behind 70,000+ bookings ([Autocar India](https://www.autocarindia.com/bike-news/ultraviolette-tesseract-electric-scooter-surpasses-50000-bookings-434877), [Motoroids](https://www.motoroids.com/news/ultraviolette-tesseract-shockwave-take-india-by-storm-over-67000-bookings-and-counting/)), and the E3 TRION launch ([Autocar India](https://www.autocarindia.com/bike-news/e3-trion-electric-scooter-launched-at-rs-1-lakh-440423)).
 
 ## Products
 
